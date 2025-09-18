@@ -1,6 +1,6 @@
 This is the source code and result data of WSAO.
 
-WSAO.m is the althigram of WSAO.
+**WSAO.m **is the althigram of WSAO.
 
 WSAO_main is the main runing function.
 
