@@ -18,3 +18,5 @@ cec17_func.mexw64 / cec17_func.cpp  is 2 documents provided by CEC2017.
 **CEC2017.m** for get function details from CEC2017.
 
 **func_plot_cec17.m** for plot conver and shape of CEC2017,and Called in the WSAO_main
+
+<img width="812" height="394" alt="图片" src="https://github.com/user-attachments/assets/0a30673c-34eb-4c0d-8f34-1ee4ef0a25b4" />
